@@ -1,0 +1,15 @@
+{
+  "httpMethod": "GET",
+  "requestContext": {
+    "identity": {
+      "sourceIp": "127.0.0.1"
+    }
+  },
+  "body": null,
+  "queryStringParameters": {
+    "key": "value"
+  },
+  "headers": {
+    "Authorization": "eyJ"
+  }
+}

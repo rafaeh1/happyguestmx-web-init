@@ -1,0 +1,14 @@
+{
+    "name": "",
+    "description": "",
+    "runtime": "nodejs8.10",
+    "memory": 512,
+    "timeout": 5,
+    "role": "arn:aws:iam::account:role/lambda_all_permissions_hg",
+    "handler": "index.handler",
+    "dependenciesDir": ".",
+    "environment": {
+        "AWS_ACCOUNT_ID": "",
+        "REGION": ""
+    }
+}
